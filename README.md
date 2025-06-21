@@ -14,16 +14,13 @@ Welcome to my resume repository! This space includes tailored versions of my pro
 - **💼 Software Developer**  
   General-purpose resume that balances core programming (Java, Python), database management, and system design.
 
-- **☁️ Full Stack Developer Using Python**  
-  Tailored for Wep Development using python as backend which includes frameworks like flask, Django, etc.
-
 Each resume is kept up-to-date and is designed to reflect relevant experience, skills, and achievements specific to the intended role.
 
 ## 🧰 Skills Summary
 
 - **Languages:** JavaScript, Python, Java, SQL, R  
 - **Frameworks:** React, Node.js, Express, Django, Spring Boot  
-- **AI/ML:** TensorFlow, Keras, Scikit-learn, NLP, Isolation Forest  
+- **AI/ML:** TensorFlow, Keras, Scikit-learn, NLP  
 - **DevOps:** Git, GitHub, Docker, CI/CD, Postman  
 - **Cloud:** Google Cloud Platform (GCP), AWS  
 - **Databases:** MongoDB, MySQL, PostgreSQL
